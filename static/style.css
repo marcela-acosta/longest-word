@@ -25,3 +25,7 @@ body {
 .invalid {
   color: red;
 }
+.letter {
+  background-color: #FFEB3B;
+  color: #666;
+}
