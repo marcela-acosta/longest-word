@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "longest_word", from = "src"}]
+packages = [{include = "longest_word", from = "."}]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
